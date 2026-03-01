@@ -1,4 +1,10 @@
 numpy
 matplotlib
-scikit-learn
 opencv-python
+scikit-learn
+pandas
+Pillow
+jupyterlab
+notebook
+ipympl
+ipywidgets
